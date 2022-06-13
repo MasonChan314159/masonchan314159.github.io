@@ -1,24 +1,17 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Maths
+description: Maths
 img: assets/img/12.jpg
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Having been devoted to Maths since childhood, I have joined numerous Maths competitions since I was in primary school. They range from regional contests, to international contests. Also, I have been a trainee of the IMO HK Training since 2021.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+When I am free, I always do Maths problems (mainly the Olympiad ones). 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+I am a Mathematics Coordinator of the Joint School Mathematics Society.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
