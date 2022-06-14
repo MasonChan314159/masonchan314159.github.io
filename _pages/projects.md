@@ -5,7 +5,7 @@ permalink: /projects/
 description: Aspects of me.
 nav: true
 nav_order: 1
-display_categories: [work, fun]
+display_categories: [Academic, Leisure]
 horizontal: false
 ---
 
