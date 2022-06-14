@@ -78,18 +78,18 @@ Okay
 </tr>
 
 <tr>
-<td>foo</td>
-<td>foo</td>
+<td>o</td>
+<td>o</td>
 </tr>
 
 <tr>
-<td>bar</td>
-<td>bar</td>
+<td>pp</td>
+<td>pp</td>
 </tr>
 
 <tr>
-<td>sus</td>
-<td>sus</td>
+<td>ku</td>
+<td>ku</td>
 </tr>
 
 </tbody>
