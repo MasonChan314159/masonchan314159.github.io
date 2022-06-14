@@ -1,73 +1,79 @@
 ---
 layout: page
 title: Maths
-description: Maths
+description: The language of the universe.
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Academic
 ---
 
 Having been devoted to Maths since childhood, I have joined numerous Maths competitions since I was in primary school. They range from regional contests, to international contests. Also, I have been a trainee of the IMO HK Training since 2021.
 
-When I am free, I always do Maths problems (mainly the Olympiad ones). 
+When I am free, I always do Maths problems (mainly the Olympiad ones).
 
 I am a Mathematics Coordinator of the Joint School Mathematics Society.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+The table below shows my achievements in Maths. Feel free to have a look at it!
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+<table class="table table-hover table-sm">
 
+<colgroup>
+<col style="width:10%">
+<col style="width:65%">
+<col style="width:25%">
+</colgroup>
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+<thead>
+<tr>
+<th scope="col">Year</th>
+<th scope="col">Item</th>
+<th scope="col">Award</th>
+</tr>
+</thead>
 
+<tbody>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+<tr>
+<th class="font-weight-bold" scope="row" rowspan="10">2022</th>
+<td>IMO HK Training</td>
+<td>Trainee</td>
+</tr>
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+<tr>
+<td>XXXIV Asian Pacific Mathematics Olympiad</td>
+<td>Competitor</td>
+</tr>
+
+<tr>
+<td>MathConceptition</td>
+<td>S3 Second Runner-up</td>
+</tr>
+
+<tr>
+<td>IMO HK Prelim</td>
+<td>Competitor</td>
+</tr>
+
+<tr>
+<td>International Youth Math Challenge</td>
+<td>Silver Honour</td>
+</tr>
+
+<tr>
+<td>Hong Kong Mathematics Olympiad</td>
+<td>TBA</td>
+</tr>
+
+<tr>
+<td>School Maths Team</td>
+<td>Member</td>
+</tr>
+
+<tr>
+<td>School Maths</td>
+<td>First in Form</td>
+</tr>
+
+</tbody>
+
+</table>
