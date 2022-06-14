@@ -88,8 +88,8 @@ Okay
 </tr>
 
 <tr>
-<td>ku</td>
-<td>ku</td>
+<td>kaa</td>
+<td>kaa</td>
 </tr>
 
 </tbody>
