@@ -50,11 +50,6 @@ The table below shows my achievements in Maths. Feel free to have a look at it!
 </tr>
 
 <tr>
-<td>IMO HK Prelim</td>
-<td>Competitor</td>
-</tr>
-
-<tr>
 <td>International Youth Math Challenge</td>
 <td>Silver Honour</td>
 </tr>

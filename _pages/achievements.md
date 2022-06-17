@@ -30,8 +30,8 @@ Okay
 <tbody>
 
 <tr>
-<th class="font-weight-bold" scope="row" rowspan="12">2022</th>
-<td rowspan="8">Maths</td>
+<th class="font-weight-bold" scope="row" rowspan="11">2022</th>
+<td rowspan="7">Maths</td>
 <td>IMO HK Training</td>
 <td>Trainee</td>
 </tr>
@@ -44,11 +44,6 @@ Okay
 <tr>
 <td>MathConceptition</td>
 <td>S3 Second Runner-up</td>
-</tr>
-
-<tr>
-<td>IMO HK Preliminary Contest</td>
-<td>Competitor</td>
 </tr>
 
 <tr>
