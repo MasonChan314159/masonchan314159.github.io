@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there! I am a 15-year-old Hongkonger studying at CCC Ming Yin College. I am a devotee to Math and I have been doing Maths Olympiad since Form 1. I also do Physics, Linguistics and Informatics Olympiads.
+Hi there! I am a 15-year-old Hongkonger. I am a devotee to Maths and I have been doing Maths Olympiad since Form 1. I also do Physics, Linguistics and Informatics Olympiads.
 
 Liking Maths to the full extent, I aspire to be a Financial analyst or Mathematician when I grow up. I am planning to study at the University of Cambridge.
 
