@@ -15,6 +15,6 @@ CodeForces: <a href="https://codeforces.com/profile/MC314159"> MC314159 </a>
 
 Discord: MC314159#6560
 
-(To see how to reach me on Discord, please refer to this blog article: https://masonchan314159.github.io/blog/2022/guide/)
+(To see how to reach me on Discord, please refer to <a href="https://masonchan314159.github.io/blog/2022/guide/"> this blog article</a>.)
 
 Email: <a href="mailto:masonchan314159@gmail.com"> masonchan314159@gmail.com
