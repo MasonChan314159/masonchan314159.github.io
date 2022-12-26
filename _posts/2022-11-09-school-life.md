@@ -11,6 +11,6 @@ Hi there! MC again. 2022 is a year of change to me. My school, my subjects study
 
 I am including reflections for a few aspects in my life this year.
 
-# Friendship
+## Friendship
 
 It is great that I have made some new friends and became more outgoing than ever.
