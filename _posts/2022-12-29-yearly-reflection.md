@@ -45,7 +45,7 @@ I joined the IPhO Training ('Physics Enhancement Programme'), but due to the tim
 
 However, my main aim is not PhO, but MO and LO. I think I will quit in Phase 2 - I won't be able to advance to Phase 3 anyways. I will still do HKPhO, SYPhO and Pan-Pearl though.
 
-My MO performance was also boosted by a lot. I got a First Honour in the HKPhO 2022, which was better than in 2021, where I got a Second Honour only. I also got a Merit award in the SYPhO 2022, which is great (since I did not get anything in SYPhO 2021).
+My PhO performance was also boosted by a lot. I got a First Honour in the HKPhO 2022, which was better than in 2021, where I got a Second Honour only. I also got a Merit award in the SYPhO 2022, which is great (since I did not get anything in SYPhO 2021).
 
 ### Linguistics Olympiad
 
@@ -57,7 +57,7 @@ The results were showed on my performance in HKLO 2022. I got Bronze (Rank 9/51)
 
 Finally, I got Bronze (Rank 6/16 in HK; Rank 32 overall), which was quite good for me. Yet, it was a bit of a pity that I could not do the IOL 2022. Yet, I was not disappointed - I was a newbie, so it was normal for me not being able to do the IOL for the first year of getting engaged in LO.
 
-However, the tables had turned. Later, Kevin Xie reached out to me and asked if I was interested in doing the IOL 2022. He was asking so since he had to do PR China NOI 2022 (SPOILER: IT WAS LATER POSTPONED), and it clashed with IOL 2022, and Kevin chose to do NOI. However, my dad opposed to that for some reasons, and hence I had to give up the place as well. Turned ou that the IOL HK Team that year was a bit bruh - Rank 1, 3, 7, 9 in APLO. The results were not still great though - the Team got HM in the Team contest.
+However, the tables had turned. Later, Kevin Xie reached out to me and asked if I was interested in doing the IOL 2022. He was asking so since he had to do PR China NOI 2022 (SPOILER: IT WAS LATER POSTPONED), and it clashed with IOL 2022, and Kevin chose to do NOI. However, my dad opposed to that for some reasons, and hence I had to give up the place as well.
 
 Hope that I could really make into the IOL Team this year. :)
 
@@ -102,5 +102,9 @@ It is a pity that I could not get the Outstanding Students Award, and I missed s
 ### MuseScore
 
 I am an avid MuseScore user. I sometimes arrange scores in MuseScore and upload them to musescore.org, which is nice.
+
+## Conclusion
+
+2022 was a fruitful year. I got many thing throughout the year.
 
 Anyways, thanks for reading, and hope we all can flourish in the year of 2023! :D
