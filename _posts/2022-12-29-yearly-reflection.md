@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2022 Yearly Reflection
-date: 2022-12-29 20:00:00-0400
+date: 2022-12-29 04:00:00-0400
 description: How did I do in 2022.
 tags: reflection
 categories: sample-posts external-services
